@@ -61,11 +61,3 @@ I’d love to connect!
 
 ---
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joseph-w-valdez&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-w-valdez&layout=compact&theme=vision-friendly-dark)](https://github.com/joseph-w-valdez/github-readme-stats)
-
----
-
