@@ -19,17 +19,18 @@
 ---
 
 ### :man_technologist: About Me :
-Hello! My name is Joseph and I am a software engineer in Southern California. 
 
-I'd love to contribute to any projects and applications that have a positive impact on the community.
- 
-Before entering the tech industry, I worked in the healthcare field for several years. Over this time, I gained a strong work ethic, with great admiration for the strong teamwork, coordination, and problem-solving that it entailed. I was introduced to the software development world by friends who suggested it due to its similarities to the medical field in the ways that I loved it. 
+Hello! I’m Joseph, a software engineer in Southern California focused on building reliable, maintainable systems.
 
-After months of soul-searching, self-studying, and research into the field, I decided to delve into it further and immerse myself in a boot camp program, and I have continued loving it since!
+I’m drawn to projects that prioritize reliability, accessibility, and long-term impact.
 
-I'm excited to keep moving forward in this industry, solving problems with a like-minded group of teammates, and continuing this path of ongoing growth! 
- 
-I’d love to connect! 
+Before software, I worked in healthcare, which shaped how I think about responsibility, teamwork, and problem-solving.
+
+I approach software development with a strong emphasis on correctness, communication, and continuous improvement. Much of my recent work has involved production browser extensions across Chrome, Safari, and iOS Safari, often in partner-facing and high-constraint environments.
+
+I enjoy working with teams that value thoughtful tradeoffs, clear communication, and long-term system health. I’m especially effective in environments where correctness, partner requirements, and maintainability matter.
+
+I’d love to connect!
 
 - :telescope: Build frontend, backend, and full-stack web applications.
 
